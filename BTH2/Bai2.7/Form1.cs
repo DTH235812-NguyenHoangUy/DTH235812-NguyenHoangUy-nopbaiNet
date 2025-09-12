@@ -1,0 +1,29 @@
+namespace Bai2._7
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnTong_Click(object sender, EventArgs e)
+        {
+            double a = Convert.ToDouble(txta.Text);
+            double b = Convert.ToDouble(txtb.Text);
+            double tong = a + b;
+            MessageBox.Show(tong.ToString());
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
