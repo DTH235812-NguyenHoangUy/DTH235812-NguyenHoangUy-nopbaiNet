@@ -1,0 +1,16 @@
+D:\moncodenet\BTH2\Bai2.4\bin\Debug\net8.0-windows\Bai2.4.exe
+D:\moncodenet\BTH2\Bai2.4\bin\Debug\net8.0-windows\Bai2.4.deps.json
+D:\moncodenet\BTH2\Bai2.4\bin\Debug\net8.0-windows\Bai2.4.runtimeconfig.json
+D:\moncodenet\BTH2\Bai2.4\bin\Debug\net8.0-windows\Bai2.4.dll
+D:\moncodenet\BTH2\Bai2.4\bin\Debug\net8.0-windows\Bai2.4.pdb
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2._4.Form1.resources
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.csproj.GenerateResource.cache
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.GeneratedMSBuildEditorConfig.editorconfig
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.AssemblyInfoInputs.cache
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.AssemblyInfo.cs
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.csproj.CoreCompileInputs.cache
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.dll
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\refint\Bai2.4.dll
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.pdb
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\Bai2.4.genruntimeconfig.cache
+D:\moncodenet\BTH2\Bai2.4\obj\Debug\net8.0-windows\ref\Bai2.4.dll
