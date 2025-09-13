@@ -1,0 +1,17 @@
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2._8.Form1.resources
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.csproj.GenerateResource.cache
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.AssemblyInfoInputs.cache
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.AssemblyInfo.cs
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.csproj.CoreCompileInputs.cache
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.sourcelink.json
+D:\net\BTH2\Bai2.8\bin\Debug\net8.0-windows\Bai2.8.exe
+D:\net\BTH2\Bai2.8\bin\Debug\net8.0-windows\Bai2.8.deps.json
+D:\net\BTH2\Bai2.8\bin\Debug\net8.0-windows\Bai2.8.runtimeconfig.json
+D:\net\BTH2\Bai2.8\bin\Debug\net8.0-windows\Bai2.8.dll
+D:\net\BTH2\Bai2.8\bin\Debug\net8.0-windows\Bai2.8.pdb
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.dll
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\refint\Bai2.8.dll
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.pdb
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\Bai2.8.genruntimeconfig.cache
+D:\net\BTH2\Bai2.8\obj\Debug\net8.0-windows\ref\Bai2.8.dll
