@@ -1,0 +1,17 @@
+D:\net\BTH3\BTH3\Bai 3.3\bin\Debug\net8.0-windows\Bai 3.3.exe
+D:\net\BTH3\BTH3\Bai 3.3\bin\Debug\net8.0-windows\Bai 3.3.deps.json
+D:\net\BTH3\BTH3\Bai 3.3\bin\Debug\net8.0-windows\Bai 3.3.runtimeconfig.json
+D:\net\BTH3\BTH3\Bai 3.3\bin\Debug\net8.0-windows\Bai 3.3.dll
+D:\net\BTH3\BTH3\Bai 3.3\bin\Debug\net8.0-windows\Bai 3.3.pdb
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai_3._3.Form1.resources
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.csproj.GenerateResource.cache
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.AssemblyInfoInputs.cache
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.AssemblyInfo.cs
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.csproj.CoreCompileInputs.cache
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.sourcelink.json
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.dll
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\refint\Bai 3.3.dll
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.pdb
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\Bai 3.3.genruntimeconfig.cache
+D:\net\BTH3\BTH3\Bai 3.3\obj\Debug\net8.0-windows\ref\Bai 3.3.dll
