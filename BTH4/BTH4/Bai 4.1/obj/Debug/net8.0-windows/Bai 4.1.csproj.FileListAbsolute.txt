@@ -1,0 +1,17 @@
+D:\net\BTH4\BTH4\Bai 4.1\bin\Debug\net8.0-windows\Bai 4.1.exe
+D:\net\BTH4\BTH4\Bai 4.1\bin\Debug\net8.0-windows\Bai 4.1.deps.json
+D:\net\BTH4\BTH4\Bai 4.1\bin\Debug\net8.0-windows\Bai 4.1.runtimeconfig.json
+D:\net\BTH4\BTH4\Bai 4.1\bin\Debug\net8.0-windows\Bai 4.1.dll
+D:\net\BTH4\BTH4\Bai 4.1\bin\Debug\net8.0-windows\Bai 4.1.pdb
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai_4._1.Form1.resources
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.csproj.GenerateResource.cache
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.AssemblyInfoInputs.cache
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.AssemblyInfo.cs
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.csproj.CoreCompileInputs.cache
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.sourcelink.json
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.dll
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\refint\Bai 4.1.dll
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.pdb
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\Bai 4.1.genruntimeconfig.cache
+D:\net\BTH4\BTH4\Bai 4.1\obj\Debug\net8.0-windows\ref\Bai 4.1.dll
